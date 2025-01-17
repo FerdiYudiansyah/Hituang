@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842125674562",
+    "project_id": "hituang",
+    "storage_bucket": "hituang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842125674562:android:791ece91af0ea6577d45db",
+        "android_client_info": {
+          "package_name": "com.example.hituang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReg2zZbYzFF8awTxz0RtIbOIzyYwseg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842125674562:android:36f826b078e1e46e7d45db",
+        "android_client_info": {
+          "package_name": "com.hituang.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReg2zZbYzFF8awTxz0RtIbOIzyYwseg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
